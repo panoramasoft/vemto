@@ -90,13 +90,7 @@ Vemto's source code is licensed under the MIT license.
 
 # Do I still need a license key?
 
-Some features are only accessible to license keys holders, such as:
-
-- Ready-made builds
-- Auto-updates
-- Features that use Vemto's servers to function (such as AI, etc.)
-
-> **However, license keys sales are currently paused, and only current license holders can access them.**
+No, Vemto has been discontinued as a commercial product and is now fully open source. Feel free to use and modify this code however you like.
 
 If you have any questions, please contact me on **contact@vemto.app**.
 
